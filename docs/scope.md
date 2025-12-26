@@ -5,13 +5,18 @@ PSE Field Photo Capture
 
 ## In Scope (Phase 1 – MVP)
 - Mobile application for field crews (iOS/Android)
-- Office-created job list (address, project name, PSE ID)
+- Guided intake form prior to photo capture
+- Required intake fields:
+  - Crew member name
+  - Customer name
+  - City
 - In-app camera for photo capture
 - Automatic timestamping of photos
-- Cloud storage of photos tied to jobs
-- Office access to view and download photos
+- Cloud storage of photos with associated intake data
+- Office access to view and download submitted photos
 
 ## Out of Scope (Phase 1)
+- Preloaded job lists or folders
 - Offline photo capture
 - AI-based photo validation
 - Automatic PSE form submission
@@ -20,5 +25,5 @@ PSE Field Photo Capture
 
 ## Assumptions
 - Field crews have smartphones
-- Office staff will set up jobs prior to install dates
+- Crews may not reliably navigate folders or job lists
 - Internet connectivity is available at most job sites
