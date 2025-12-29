@@ -23,3 +23,7 @@ Current photo capture workflows lead to missing, mislabeled, or delayed document
 ## Success Metrics
 - 100% PSE jobs have compliant photos
 - Zero post-job photo requests
+
+## Development Notes
+This project uses AI-assisted development tools to accelerate implementation.
+All generated code is reviewed, tested, and maintained by the development team.
